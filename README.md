@@ -1,16 +1,35 @@
-# React + Vite
+# 📝 React To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich, responsive, and intuitive To-Do List application built with **React.js**. Designed to help you stay organized, manage daily tasks efficiently, and boost productivity with a smooth user interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Add & Delete Tasks:** Quickly add new tasks and remove them when completed.
+- **Task Filtering:** Easily toggle between all, active, and completed tasks.
+- **State Management:** Powered by React Hooks (`useState`, `useEffect`) for seamless state updates.
+- **Responsive Design:** Fully optimized for both desktop and mobile devices.
+- **Clean UI:** Modern and minimalist interface for a distraction-free experience.
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Check out the live application here: [https://todolistvr.netlify.app/](https://todolistvr.netlify.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3 / Modern Styling
+- **Deployment:** Netlify
+- **Version Control:** Git & GitHub
+
+## 📂 Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
